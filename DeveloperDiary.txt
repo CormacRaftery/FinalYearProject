@@ -1,0 +1,34 @@
+FinalYearProject DeveloperDiary
+by Cormac Raftery
+
+12/07/2020 - 19/07/2020
+
+Research into viable project idea
+
+After researching into what type of project would interest me I 
+decided that a game would be the most interesting project but a 
+simple game would not be enough and it would need to incorporate 
+a database and perhaps a multiplayer functionality. A strategy 
+game would be best suited towards the goal of the project as it 
+entails less graphic design than any other game. Chess has been 
+done numerous times so to try something new I decided to try to 
+recreate the game "Khet".
+
+19/07/2020 - 26/07/2020
+
+Decide on technologies
+
+For the dissertation Overleaf is a very useful tool as it 
+allows for the dissertation to be written in Latex which has 
+proved intuitive over previous projects.
+
+The hottest game engine right now is unity and having used 
+to in a module in first semester it seemed like the smartest 
+choice.
+
+A sql database where the player can retain data between games 
+seemed like something I would like to become more familiar 
+with so after researching sql databases I decided that a MAMP 
+server would be acceptable to meet this goal.
+
+26/07/2020 - 2/08/2020
