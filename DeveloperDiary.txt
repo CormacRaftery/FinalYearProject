@@ -1,5 +1,5 @@
 FinalYearProject DeveloperDiary
-by Cormac Raftery G00348802
+by Cormac Raftery
 
 12/07/2020 - 19/07/2020
 
@@ -32,3 +32,35 @@ with so after researching sql databases I decided that a MAMP
 server would be acceptable to meet this goal.
 
 26/07/2020 - 2/08/2020
+
+Begin work on khet
+
+After spending many hours trying to develop the game khet I 
+decided that it would take far too much time so it was time 
+to re-evaluate the project goals and select an easier game. 
+
+With the deadline rapidly approaching I made the difficult 
+decision that the multiplayer functionality and saving the 
+game to a database was more important.  
+
+2/08/2020 - 9/08/2020
+
+Tic-Tac-Toe
+Game has been changed to tic-tac-toe and basic 
+functionality has been completed. (No multiplayer and no database)
+
+9/08/2020 - 16/08/2020
+
+SQL database
+Database has been incorporated into the Tic-Tac-Toe game successfully.
+
+16/08/2020 - 30/08/2020
+
+Multiplayer functionality
+
+After struggling for far too long to get a successful 
+server-client game running I had no choice but to focus 
+on other aspects of the project.
+
+Dissertation work
+Putting together the dissertation in Latex.
