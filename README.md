@@ -8,7 +8,6 @@
 * [How to deploy](#deploy)
 * [Technologies Incorporated & Architecture](#architecture) 
 * [Conclusion](#conclusion)
-* [References](#references)
 
 | Project Details   |     |
 | --- | --- |
@@ -38,6 +37,3 @@ This project is a server-client-database application, using MAMP as the data tie
 
 # Conclusion<a name = "conclusion"></a>
 While the project did not reach all its original goals, it still provided basic functionality for a classic game which saves data to a structured database. Exploring multiple aspects of game design was very interesting trying to mesh them together and a lot was learned from the project.
-
-# References<a name = "references"></a>
-This is a collection of the references I used while developing the project.
