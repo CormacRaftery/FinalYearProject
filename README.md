@@ -1,4 +1,4 @@
-# CRScheduling
+# FinalYearProject
 
 ## [Contents](#contents)
 * [Project Details](#details)
